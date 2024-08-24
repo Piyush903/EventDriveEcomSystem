@@ -1,1 +1,1 @@
-{"nam_product":"SR-128996","type_product":"keyboard","address_customer":"hay el amal rue damas N°01 souk sebt old nemma","phone_customer":"0671707011","email_customer":"otmanetahri1@gmail.com","email_supplied":"otmanetahri1@gmail.com","quantity":125,"series":"RS12784"}
+{"nam_product":"SRV-996","type_product":"keyboard","address_customer":"a jdnak jdjks ekjs","phone_customer":"9923238131","email_customer":"wfcdas1@gmail.com","email_supplied":"wfwfwe1@gmail.com","quantity":15,"series":"WSSRV12784"}
